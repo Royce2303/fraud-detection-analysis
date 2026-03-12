@@ -119,7 +119,7 @@ Analyzed 100,000 digital banking transactions with the following features:
 
 ### Project Structure
 ```
-jpmorgan_fraud_detection/
+fraud-detection-analysis/
 │
 ├── fraud_detection_analysis.py    # Main analysis script
 ├── requirements.txt                # Python dependencies
@@ -133,24 +133,6 @@ jpmorgan_fraud_detection/
 └── data/
     └── synthetic_transactions.csv  # Generated transaction data
 ```
-
-### Running the Analysis
-
-```bash
-# Clone the repository
-git clone https://github.com/roycelobo/jpmorgan-fraud-detection.git
-
-# Navigate to project directory
-cd jpmorgan-fraud-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run analysis
-python fraud_detection_analysis.py
-```
-
----
 
 ## 📈 Visualizations
 
@@ -199,22 +181,6 @@ This project builds on my published IEEE research on **"Email Phishing Attack De
 | **Impact** | Protect user credentials | Prevent financial loss |
 
 The methodologies are complementary - while phishing detection protects the entry point, fraud detection secures the transaction layer. Together, they form a comprehensive security framework for digital banking.
-
----
-
-## 📞 Contact & Collaboration
-
-I'm actively seeking opportunities in **Data Analytics** and **Machine Learning** roles, particularly in:
-- Financial Services & FinTech
-- Fraud Detection & Risk Analytics
-- Business Intelligence & Data Strategy
-
-**Let's connect:**
-- 📧 Email: rollslobo@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/royce-lobo](https://www.linkedin.com/in/royce-lobo/)
-- 🔗 GitHub: [View Full Project](https://github.com/roycelobo)
-
----
 
 ## 📄 License
 
